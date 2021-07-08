@@ -6,7 +6,7 @@ Creator: https://github.com/cheesecakeufo/komorebi
 ```
 cmake vala gstreamer1-libav gtk3 webkit2-gtk3 clutter-gtk3 clutter clutter-gst3
 ```
-## Build for source:
+## Build from source:
 
 ```
 git clone https://github.com/SrWither/KomorebiBSD.git
