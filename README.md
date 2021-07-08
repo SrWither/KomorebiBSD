@@ -13,6 +13,7 @@ git clone https://github.com/SrWither/KomorebiBSD.git
 cd KomorebiBSD
 mkdir build && cd build
 cmake ..
+make
 sudo/doas make install
 ./komorebi
 ```
