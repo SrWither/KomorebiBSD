@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 echo "[INFO] Ignore any errors"
 echo "[*] Resetting desktop configuration"
 gsettings set org.gnome.desktop.background show-desktop-icons true || true
