@@ -158,7 +158,7 @@ namespace WallpaperCreator.OnScreen {
 
 					} else {
 						addLayerButton.visible = false;
-						optionsPage.setImage("/System/Resources/Komorebi/blank.svg");
+						optionsPage.setImage("/usr/local/share/Komorebi/Resources/Komorebi/blank.svg");
 					}
 
 					stack.add_named(optionsPage, "options");
