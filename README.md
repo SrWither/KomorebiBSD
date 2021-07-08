@@ -12,7 +12,9 @@ cmake vala gstreamer1-libav gtk3 webkit2-gtk3 clutter-gtk3 clutter clutter-gst3 
 git clone https://github.com/SrWither/KomorebiBSD.git
 cd KomorebiBSD
 mkdir build && cd build
-cmake .. && sudo/doas make install && ./komorebi
+cmake ..
+sudo/doas make install
+./komorebi
 ```
 
 # Preview
