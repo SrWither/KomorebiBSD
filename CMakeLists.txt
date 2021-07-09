@@ -81,8 +81,8 @@ add_executable(komorebi-wallpaper-creator ${WALLPAPER_CREATOR})
 target_link_libraries(komorebi ${DEPS_LIBRARIES} -lm)
 target_link_libraries(komorebi-wallpaper-creator ${DEPS_LIBRARIES} -lm)
 
-install(TARGETS komorebi RUNTIME DESTINATION /usr/local/share/Komorebi/Applications/)
-install(TARGETS komorebi-wallpaper-creator RUNTIME DESTINATION /usr/local/share/Komorebi/Applications/)
+install(TARGETS komorebi RUNTIME DESTINATION /usr/local/bin)
+install(TARGETS komorebi-wallpaper-creator RUNTIME DESTINATION /usr/local/bin)
 
 
 ######### Wallpapers ############
