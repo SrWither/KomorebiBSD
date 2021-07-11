@@ -4,7 +4,7 @@ Creator: https://github.com/cheesecakeufo/komorebi
 
 ## Libs:
 ```
-cmake vala gstreamer1-libav gtk3 glib gee webkit2-gtk3 clutter-gtk3 clutter clutter-gst3 bash
+cmake vala gstreamer1-libav gtk3 glib libgee webkit2-gtk3 clutter-gtk3 clutter clutter-gst3 bash
 ```
 ## Build from source:
 
