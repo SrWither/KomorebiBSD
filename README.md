@@ -27,17 +27,17 @@ To start, put in your terminal:
 ### Komorebi includes a wizard to create screen backgrounds, static or animated
 
 ## Example
-1º
+### first step
 ![image](https://user-images.githubusercontent.com/59105868/125200629-464b7000-e242-11eb-8f28-6d4bbd819cdf.png)
-2º
+### second step
 ![image](https://user-images.githubusercontent.com/59105868/125200639-52373200-e242-11eb-8270-2438b3fe8cb8.png)
-3º
+### third step
 ![image](https://user-images.githubusercontent.com/59105868/125200653-5b280380-e242-11eb-9dc4-eb46dd0dfd9c.png)
-4º
+### fourth step
 ![image](https://user-images.githubusercontent.com/59105868/125200707-87438480-e242-11eb-8bdc-a587e5e59989.png)
-5º
+### fifth step
 ![2021-07-11_12-17](https://user-images.githubusercontent.com/59105868/125200786-b6f28c80-e242-11eb-9b1d-a9e5906309a0.png)
-6º
+### sixth and last step
 ![2021-07-11_12-22](https://user-images.githubusercontent.com/59105868/125200790-b954e680-e242-11eb-9e1e-e8ce99577f75.png)
 
 # Preview
