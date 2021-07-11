@@ -27,12 +27,12 @@ To start, put in your terminal:
 ### Komorebi includes a wizard to create screen backgrounds, static or animated
 
 ## Example
-
-![image](https://user-images.githubusercontent.com/59105868/125200408-66c6fa80-e241-11eb-9b81-a6374b131c64.png)
-![image](https://user-images.githubusercontent.com/59105868/125200425-7e05e800-e241-11eb-92a8-6a7b38cf3dcc.png)
-![image](https://user-images.githubusercontent.com/59105868/125200435-8c540400-e241-11eb-8e81-97ebbf6834f4.png)
-![image](https://user-images.githubusercontent.com/59105868/125200454-a42b8800-e241-11eb-969e-f915f21d5974.png)
-
+![image](https://user-images.githubusercontent.com/59105868/125200629-464b7000-e242-11eb-8f28-6d4bbd819cdf.png)
+![image](https://user-images.githubusercontent.com/59105868/125200639-52373200-e242-11eb-8270-2438b3fe8cb8.png)
+![image](https://user-images.githubusercontent.com/59105868/125200653-5b280380-e242-11eb-9dc4-eb46dd0dfd9c.png)
+![image](https://user-images.githubusercontent.com/59105868/125200707-87438480-e242-11eb-8bdc-a587e5e59989.png)
+![2021-07-11_12-17](https://user-images.githubusercontent.com/59105868/125200786-b6f28c80-e242-11eb-9b1d-a9e5906309a0.png)
+![2021-07-11_12-22](https://user-images.githubusercontent.com/59105868/125200790-b954e680-e242-11eb-9e1e-e8ce99577f75.png)
 
 # Preview
 
