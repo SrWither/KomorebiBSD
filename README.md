@@ -17,9 +17,14 @@ make
 sudo/doas make install
 ```
 ## to start
+
+### To start, put in your terminal:
 ```
-To start, put in your terminal:
+komorebi
 ```
+
+
+
 ## or you can search it from the menu
 ![image](https://user-images.githubusercontent.com/59105868/125200302-d4bef200-e240-11eb-8e36-eeacfca85c04.png)
 
